@@ -1,0 +1,9 @@
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\bin\Debug\Düzeltme.exe.config
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\bin\Debug\Düzeltme.exe
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\bin\Debug\Düzeltme.pdb
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\obj\Debug\Düzeltme.csprojAssemblyReference.cache
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\obj\Debug\Düzeltme.Properties.Resources.resources
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\obj\Debug\Düzeltme.csproj.GenerateResource.cache
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\obj\Debug\Düzeltme.exe
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\obj\Debug\Düzeltme.pdb
+C:\Users\Bugra Daglı\source\repos\Düzeltme\Düzeltme\obj\Debug\Düzeltme.Form1.resources
